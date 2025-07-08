@@ -1,0 +1,23 @@
+/* รีเซ็ตค่าเบื้องต้น */
+
+body {
+    background: linear-gradient(135deg, #f8f8f3);
+   
+}
+.contain{
+background-color: rgb(206, 204, 204);
+padding-left: 2ram;
+height: 300px;
+}
+h1 {
+  text-align: center;
+  font-size: 100px;
+  color: #000000e4;
+  font-style: initial;
+}
+.email_account{
+  margin-left: 200px;
+}
+
+  
+  
